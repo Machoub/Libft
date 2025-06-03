@@ -54,5 +54,5 @@ make re
 This will generate a libft.a file that can be linked to any C project.
 
 ## 👨‍💻 Author
-Mehdi Adel Achouba.
-42 Paris – Login: machouba
+** Mehdi Adel Achouba **
+** 42 Paris – Login: machouba **
