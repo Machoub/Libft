@@ -19,12 +19,13 @@ Its goal is to recreate a simplified version of the standard C library from scra
 ### 🔡 Part 1 – Libc Functions (Re-implemented)
 Functions from `<ctype.h>`, `<string.h>`, and `<stdlib.h>`:
 
-```c
+
 ft_isalpha    ft_isdigit    ft_isalnum    ft_isascii    ft_isprint
 ft_strlen     ft_memset     ft_bzero      ft_memcpy     ft_memmove
 ft_strlcpy    ft_strlcat    ft_toupper    ft_tolower    ft_strchr
 ft_strrchr    ft_strncmp    ft_memchr     ft_memcmp     ft_strnstr
 ft_atoi       ft_calloc     ft_strdup
+
 🧪 Part 2 – Additional Functions
 Helper functions for strings, memory and string splitting:
 
