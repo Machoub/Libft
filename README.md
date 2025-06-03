@@ -53,6 +53,7 @@ make re
 ```
 This will generate a libft.a file that can be linked to any C project.
 
-## 👨‍💻 Author
-**Mehdi Adel Achouba**  
+## 🧑‍💻 Author
+Project developed as part of the 42 Common Core.  
+Developed by [machouba](https://github.com/Machoub)  
 **42 Paris – Login: machouba**
